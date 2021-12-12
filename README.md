@@ -1,2 +1,3 @@
 # Pick-Me-Up
-carpooling app for LAU studenta
+carpooling app for LAU students
+
